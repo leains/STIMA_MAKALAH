@@ -1,0 +1,3 @@
+algorithm,cutoff_value,cutoff_unit,business_potential_score,business_count,direct_competitor_count,candidate_customer_proxy_count,service_area_sqkm,reachable_node_count,reachable_edge_count,road_length_km,road_density_km_per_sqkm,intersection_count,intersection_density_per_sqkm,elapsed_seconds,avg_node_degree,customer_score,accessibility_score,activity_score,competition_score
+Dijkstra,10000.0,meters,80.0,0,0,5970,74.02053953882172,18591,42255,2931.681159201908,39.60631977917862,12566,169.76369097403676,0.06848929999978282,2.4524770050024207,100.0,100.0,0.0,100.0
+BFS,213.0,hops,80.0,0,0,8852,98.0770787032886,25613,59118,4010.2877875616114,40.88914393233394,17434,177.75814930971657,0.023707000000285916,2.4611720610627414,100.0,100.0,0.0,100.0

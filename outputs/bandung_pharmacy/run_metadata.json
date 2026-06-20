@@ -1,0 +1,28 @@
+{
+  "place": "Bandung, West Java, Indonesia",
+  "network_type": "drive",
+  "travel_cutoff_m": 10000.0,
+  "travel_cutoff_km": 10.0,
+  "competitor_category": "pharmacy",
+  "candidate_lat": -6.9032981499999995,
+  "candidate_lon": 107.62964414913552,
+  "origin_node": 5369483140,
+  "bfs_depth_limit": 213,
+  "graph_nodes": 25710,
+  "graph_edges": 59241,
+  "businesses_within_travel_area": 0,
+  "direct_competitors_within_travel_area": 0,
+  "candidate_customer_proxies_within_travel_area": 5970,
+  "feature_fetch_area": "union of Dijkstra and BFS service areas",
+  "outputs": [
+    "summary.csv",
+    "businesses_within_travel_area.csv",
+    "direct_competitors_within_travel_area.csv",
+    "candidate_customers_within_travel_area.csv",
+    "service_area_dijkstra.geojson",
+    "service_area_bfs.geojson",
+    "road_network_projected.graphml",
+    "map.html",
+    "run_metadata.json"
+  ]
+}

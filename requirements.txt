@@ -1,0 +1,9 @@
+osmnx>=2.0.0
+networkx>=3.2
+geopandas>=0.14
+shapely>=2.0
+pandas>=2.0
+numpy>=1.24
+folium>=0.15
+matplotlib>=3.8
+scikit-learn>=1.3
